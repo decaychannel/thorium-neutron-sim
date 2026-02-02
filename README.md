@@ -35,7 +35,6 @@ thorium-neutron-sim/
 ## Materials
 
 - **Th-232**: Pure Thorium-232 (fertile material, ρ = 11.7 g/cm³)
-- **U-235**: Enriched Uranium (93% U-235, available for comparison)
 
 ## Building
 
